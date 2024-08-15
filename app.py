@@ -3,7 +3,7 @@
 import pymysql
 
 host = 'admin.cjp8hsqu4je0.us-east-2.rds.amazonaws.com'
-user = 'admin'
+user = 'remote'
 password = '12345678'
 database = 'admin'
 
